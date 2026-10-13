@@ -1,8 +1,10 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=chimmus&hide_rank=true&hide_title=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=chimmus&hide_rank=true&hide_title=true&include_all_commits=true&theme=dark_github)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
 
 i make unintuitive things
+
+**chimmus/chimmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+
+when love and hate collide
 <!--
 **chimmus/chimmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
