@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=chimmus&theme=dark&timezone=AEST&card_width=300&card_height=100&background=0E1116&border=353B42)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chimmus&theme=dark&timezone=AEST&card_width=300&card_height=100&background=0E1116&border=353B42)](https://github.com/chimmus)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
 
