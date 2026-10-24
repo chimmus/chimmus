@@ -1,4 +1,4 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=101&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=101&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=99&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=99&theme=dark_github)
 
 i make unintuitive things
 
