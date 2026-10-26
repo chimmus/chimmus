@@ -1,6 +1,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=102&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=102&theme=dark_github)
 
-i make unintuitive things
+i make unintuitive things, sometimes i forget to update readme and version numbers 
 
 **chimmus/chimmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
