@@ -1,4 +1,4 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=102&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=102&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=200&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chimmus&layout=compact&hide_title=true&langs_count=200&theme=dark_github)
 
 i make unintuitive things, sometimes i forget to update readme and version numbers 
 
